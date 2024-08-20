@@ -30,7 +30,6 @@ export default {
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
 
 Link demo: https://project-iden-v.vercel.app/
-Link resource: https://github.com/ducanhRabbit/Project_IdenV.git
 Công nghệ sử dụng
 Front-end:
 · React, TS , TailwindCSS
